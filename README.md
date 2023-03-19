@@ -28,7 +28,7 @@
     * No cheating or exploiting: Players should not use any mods, hacks, or third-party software that gives them an unfair advantage over other players. They should also report any bugs or glitches they find to the server staff immediately.
 
 
-* ### §4: Grifing/Stealing/PvPing Rules:__
+* ### §4: Grifing/Stealing/PvPing Rules:
 
     * §4.1: No griefing or stealing: This includes destroying or modifying another player's builds or items without permission. Players should always ask for permission before taking or using anything that belongs to someone else.
 
