@@ -26,10 +26,18 @@
 
     * Kein Cheaten oder Ausnutzen: Spieler sollten keine Mods, Hacks oder Software von Drittanbietern verwenden, die ihnen einen unfairen Vorteil gegenüber anderen Spielern verschaffen. Sie sollten auch jeden Fehler oder jede Glitch, die sie finden, sofort dem Serverpersonal melden.
 
-* ### §4: Regeln zu Griefing/Stealing/PvPing:
+* ### §4: Regeln für Griefing, Diebstahl und PvP:
 
-    * §4.1: Kein Griefing oder Stealing: Dazu gehört das Zerstören oder Ändern von Gebäuden oder Gegenständen eines anderen Spielers ohne Erlaubnis. Spieler sollten immer um Erlaubnis fragen, bevor sie etwas verwenden oder mitnehmen, das jemand anderem gehört.
+    * §4.1: Kein Griefing oder Diebstahl: Dies beinhaltet das Zerstören oder Verändern von Gebäuden oder Gegenständen anderer Spieler ohne deren Erlaubnis. Spieler sollten immer um Erlaubnis fragen, bevor sie etwas verwenden, das jemand anderem gehört.
 
-    * §4.2: Kein PvP ohne Zustimmung: Spieler sollten kein PvP ohne Zustimmung aller beteiligten Parteien durchführen. Dazu gehören Duelle und Kämpfe in ausgewiesenen PvP-Bereichen. Eine Ausnahme kann darin bestehen, Item-Lager, komplexe Maschinen oder wertvolle Entitäten vor Angriffen/Diebstahl zu verteidigen.
+    * 4.2: Kein PvP ohne Zustimmung: Spieler sollten ohne die Zustimmung aller beteiligten Parteien kein PvP betreiben. Dazu gehören Duelle und Kämpfe in ausgewiesenen PvP-Bereichen. Eine Ausnahme kann gemacht werden, um Item-Lager, komplexe Maschinen oder wertvolle Entitäten vor Angriffen/Diebstahl zu verteidigen.
 
-* ### §5: Chat-
+* ### §5: Chat-Regeln:
+
+    * 5.1: Kein Spamming oder Werben: Spieler sollten vermeiden, den Chat zu spammen oder andere Server oder Websites ohne Genehmigung des Serverpersonals zu bewerben.
+
+    * 5.3: Kein unangemessener Inhalt: Spieler sollten keine Inhalte posten oder teilen, die sexuell explizit, gewalttätig oder anderweitig für alle Altersgruppen unangemessen sind.
+
+    * 5.4: Kein übermäßiges Fluchen: Wir verstehen, dass während des Spiels einige mildes Fluchen auftreten kann, aber übermäßiger Gebrauch von Schimpfwörtern wird nicht toleriert.
+
+Denken Sie daran, dass das Ziel dieses Servers darin besteht, eine freundliche und einladende Umgebung für alle Spieler zu bieten. In Fällen, in denen Unterregeln erforderlich sind, wird das Serverpersonal zusätzliche Anleitung und Klarstellung bereitstellen, wie nötig.
