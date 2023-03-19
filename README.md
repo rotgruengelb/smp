@@ -1,4 +1,4 @@
-> Switch to German > [[DE]](https://github.com/rotgruengelb/smp/tree/Season-1-(Vanilla)/de)
+> Switch to German > [[DE]](https://github.com/rotgruengelb/smp/tree/Season-1-(Vanilla)/de#rotgruengelb-smp-season-1-vanilla)
 # Rotgruengelb SMP Season 1 (Vanilla)
 ## Rules
 
