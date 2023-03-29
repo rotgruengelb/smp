@@ -43,4 +43,4 @@
 
     * 5.4:  No  excessive swearing: While we understand that some mild swearing may occur during gameplay, excessive use of profanity will not be tolerated.
 
-Remember, the goal of this server is to provide a friendly and welcoming environment for all players to enjoy. In cases where sub-rules are necessary, the server staff will provide additional guidance and clarification as needed.
+Remember, the goal of this server is to provide a friendly and welcoming environment for all players to enjoy. In cases where sub-rules are necessary, the server staff will provide additional guidance and clarification as needed. (This can be considert a rule §a)
