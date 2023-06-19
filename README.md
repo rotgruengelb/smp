@@ -1,5 +1,14 @@
 > Switch to German > [[DE]](https://github.com/rotgruengelb/smp/tree/Season-1-(Vanilla)/de#rotgruengelb-smp-season-1-vanilla)
 # Rotgruengelb SMP Season 1 (Vanilla)
+
+## Special Rules
+
+* /player ist allowed to be used under Following Condition:
+	* Only "Bot1" or "Bot2" Names are used. 
+ 	* The Bots actually do anything productive if not use /player {name} kill.
+  	* Do not "steal" a Bot from someone else unless the Bot has been up for more than 10 hours
+       > If these Rules are not Followed expect beeing banned for a longer time. If the /player command is missues by the Playerbase it will be removed.
+
 ## Rules
 
 * ### §1: General Rules
